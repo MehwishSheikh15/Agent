@@ -1,0 +1,10 @@
+streamlit
+fastapi
+plotly==6.1.2
+uvicorn
+pydantic
+pytz
+pandas
+requests
+dotenv
+pip==25.1.1

@@ -118,7 +118,7 @@ app = FastAPI(
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://a3pnkwziu2qyfytxkyphsm.streamlit.app/"],
+    allow_origins=["https://my-agent3pnkwziu2qyfytxkyphsm.streamlit.app/"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
